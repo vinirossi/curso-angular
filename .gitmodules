@@ -1,0 +1,3 @@
+[submodule "requests-http"]
+	path = requests-http
+	url = https://github.com/vinirossi/requests-http
