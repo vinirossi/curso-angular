@@ -3,7 +3,7 @@
 
 Código fonte apresentado no curso de Angular gratuito do blog loiane.com - loiane.training
 
-### Nesse repositório está os projetos desenvolvidos nas aulas.
+### Nesse repositório estão os projetos desenvolvidos nas aulas.
 
 ### Link do curso com certificado:
 * [http://loiane.training/curso/angular/](http://loiane.training/curso/angular/)
