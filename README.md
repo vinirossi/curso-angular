@@ -1,7 +1,9 @@
-# Curso Angular Gratuito
-🎓 [PT-BR] Curso de Angular gratuito - loiane.training [EN] Source code of my free Angular training.
+# Curso Angular Gratuito da Instrutora Loiane Groner
+🎓 [PT-BR] Curso de Angular gratuito - loiane.training
 
 Código fonte apresentado no curso de Angular gratuito do blog loiane.com - loiane.training
+
+### Nesse repositório está os projetos desenvolvidos nas aulas.
 
 ### Link do curso com certificado:
 * [http://loiane.training/curso/angular/](http://loiane.training/curso/angular/)
